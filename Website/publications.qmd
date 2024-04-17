@@ -4,9 +4,16 @@ format: html
 editor: visual
 bibliography: self_references.bib 
 csl: apa.csl
+link-citations: true
 ---
 
-## Most recent article
+## Most recent
+
+- [@cottineau2024generative]: This piece is a manifesto on desirable future paths for generative modelling in the field of spatial analysis
+- [@cottineau2024unforeseen]: We analyse the ways in which analytical urban models circulate, in light of the diversity of their objectives, the circumstances in which they were produced and the economic or political interests expressed by their users.
+- [@askenazy2024geography]: We analyse the structure of bargaining
+within multi-establishment firms and whether the level chosen depends on the geography of the firm.
+- [@achter2024conduct]: Our meta-review analyses past and present trends in how Agent-Based Models (ABMs) are reviewed and how they address theory development
 
 
 ## Peer reviewed articles
@@ -15,6 +22,12 @@ csl: apa.csl
 [@cottineau2019mobile]
 [@schneider2019decentralisation]
 [@janssen2023gentrification]
+- on Literature reviews and History of urban studies: [@cottineau2017metazipf] 
+[@raimbault2021empowering]
+[@cottineau2022analyses]
+[@janssen2023gentrification]
+[@achter2024conduct]
+[@cottineau2024unforeseen]
 - on Urban scaling laws and systems of cities:  
 [@pumain2015multilevel]
 [@cottineau2017diverse]
@@ -22,32 +35,47 @@ csl: apa.csl
 [@cottineau2017metazipf]
 [@finance2019absent]
  [@cottineau2019defining]
-
-- on Literature reviews and History of urban studies: [@cottineau2017metazipf] 
-[@achter2024conduct]
-[@raimbault2021empowering]
 - on Agent-based modelling: [@cottineau2015modular] [@cottineau2015growing]
 [@cherel2015beyond] [@raimbault2019space] [@achter2024conduct]
-- on Urbanisation in the post-Soviet Space
-[@cottineau2012systeme] [@cottineau2015modular] 
+- on Urbanisation in the post-Soviet Space:
+[@cottineau2011processus]
+[@cottineau2012intermediate] [@cottineau2015modular] 
 [@cottineau2015growing]
 [@cottineau2016multilevel]
-- on the Geography of production
-[@cottineau2020nested]
-- on Urban policy and industrial relations:
+[@cottineau2017peut]
+- on the Geography of production:
+[@cottineau2020nested] [@brochard2022negociation]
+[@askenazy2024geography]
+- on Urban policy:
 [@schneider2019decentralisation]
-[@brochard2022negociation]
+
 
 ## Books
+
+- Edited book on inequalities in geographical space: [@cottineau2022inequalities]
+
+- Edited book on cities and inequalities: 
+[@cottineau2022cities]
 
 
 ## Book chapters
 
+- In R. Harris, A. Heppenstall, & L. J. Wolf (Eds.), A research agenda for spatial analysis: [@cottineau2024generative]
+- In C. Cottineau & J. Vallée (Eds.), Inequalities in geographical space: [@cottineau2022introduction] [@cottineau2022modeling]
+- In C. Cottineau & D. Pumain (Eds.), Cities at the heart of inequalities: [@cottineau2022major]
+ [@cottineau2022inequalitiesbetweencities] 
+- In D. Pumain (Ed.), Theories and models of urbanization: Geography, economics and computing sciences: [@baffi2020emerging]
+- In D. Pumain (Ed.), Geographical modeling: Cities and territories: [@cottineau2019incremental]
+- In D. Pumain, C. Rozenblat, & E. Velasquez (Eds.), International and transnational perspectives on urban systems: [@cottineau2018russian] 
 
 
 ## Other
 
 - My PhD Dissertation: [@cottineau2014evolution]
+- Non-peer-reviewed article: [@drouzhinin2010identifikatsia]
+- Working Papers: [@cottineau2016jean] [@barner2017multiscale] [@cottineau2018agent]
+- Book reviews: [@cottineau2011baron] [@cottineau2014piketty]  [@cottineau2017west] [@cottineau2020lahire]
+- Report: [@avila2011mapping]
 
 ## Full list
 
