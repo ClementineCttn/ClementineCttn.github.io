@@ -1,0 +1,55 @@
+---
+title: "Publications"
+format: html
+editor: visual
+bibliography: self_references.bib 
+csl: apa.csl
+---
+
+## Most recent article
+
+
+## Peer reviewed articles
+
+- on Economic Inequality, residential segregation and urban inequality:  [@cottineau2019defining] 
+[@cottineau2019mobile]
+[@schneider2019decentralisation]
+[@janssen2023gentrification]
+- on Urban scaling laws and systems of cities:  
+[@pumain2015multilevel]
+[@cottineau2017diverse]
+[@cura2017old]
+[@cottineau2017metazipf]
+[@finance2019absent]
+ [@cottineau2019defining]
+
+- on Literature reviews and History of urban studies: [@cottineau2017metazipf] 
+[@achter2024conduct]
+[@raimbault2021empowering]
+- on Agent-based modelling: [@cottineau2015modular] [@cottineau2015growing]
+[@cherel2015beyond] [@raimbault2019space] [@achter2024conduct]
+- on Urbanisation in the post-Soviet Space
+[@cottineau2012systeme] [@cottineau2015modular] 
+[@cottineau2015growing]
+[@cottineau2016multilevel]
+- on the Geography of production
+[@cottineau2020nested]
+- on Urban policy and industrial relations:
+[@schneider2019decentralisation]
+[@brochard2022negociation]
+
+## Books
+
+
+## Book chapters
+
+
+
+## Other
+
+- My PhD Dissertation: [@cottineau2014evolution]
+
+## Full list
+
+::: {#refs}
+:::
