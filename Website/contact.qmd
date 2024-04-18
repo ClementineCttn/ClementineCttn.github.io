@@ -1,0 +1,41 @@
+---
+title: "contact"
+format: html
+editor: visual
+theme: minty 
+---
+
+You can contact me via [e-mail](mailto:c.cottineau@tudelft.nl), social media ([Mastodon](https://mastodon.social/@clementinecttn),
+[X](https://twitter.com/ClementineCttn)), through [Github](https://github.com/ClementineCttn) or by traditional mail:
+
+**Dr. Clémentine Cottineau**
+
+TU Delft, Faculty of Architecture
+
+Department of Urbanism, Urban studies section
+
+Building 8, room BG.West.700
+
+Julianalaan 134, 2628BL, Delft (NL)
+
+
+```{r, echo=FALSE}
+library(leaflet)
+
+leaflet() %>% 
+  setView(4.3705259, 52.0056562, 9) %>%
+  addProviderTiles(providers$CartoDB.Positron) %>%
+ addCircleMarkers(
+      lng = 4.3705259, lat = 52.0056562,
+    label = "TU Delft | Faculty of Architecture and the Built Environment",
+    radius = 7,
+    color = "#78c2ad",
+    stroke = FALSE, fillOpacity = 0.5)
+
+
+```
+
+
+
+
+[<- Back to home page](http://clementinecttn.github.io/)
