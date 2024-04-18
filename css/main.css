@@ -640,7 +640,7 @@ body header h1 {
   margin-bottom: 0.25em;
   font-weight: 300;
   color: #929398;
-  font-family: "Abril Fatface";
+  font-family: 'Oswald', sans-serif;
   text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.1);
 }
 
@@ -651,7 +651,7 @@ body h1 {
   margin-bottom: 0.25em;
   font-weight: 300;
   color: #929398;
-  font-family: "Abril Fatface";
+  font-family: 'Oswald', sans-serif;
   text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.1);
 }
 
