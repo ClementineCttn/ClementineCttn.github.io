@@ -1,0 +1,63 @@
+---
+title: "Teaching"
+format: html
+editor: visual
+bibliography: teaching_references.bib 
+csl: apa.csl
+link-citations: true
+theme: minty 
+---
+
+[Back to home page](http://clementinecttn.github.io/)
+
+### Teaching positions 
+
+```{r, echo=FALSE}
+library(leaflet)
+library(htmltools)
+
+locations <- read.csv(textConnection(
+"Name,Lat,Long
+2020-... Assistant professor in Urban Studies (TU Delft BK - Urbanism), 52.0055648,4.3681619
+2012-2014 Teaching assistant in Human Geography (U. Paris 1 Panthéon Sorbonne),48.8447567,2.3399484
+2015-2017 Master and PhD thesis supervisor (UCL- CASA),51.5219617,-0.1384865"
+))
+
+
+leaflet(locations) %>% 
+  setView(4.3681619, 52.0055648, 4) %>%
+  addProviderTiles(providers$CartoDB.Positron) %>%
+  addCircleMarkers(~Long, ~Lat, popup = ~htmlEscape(Name),
+    radius = 10,
+    color = "#0052D6",
+    stroke = FALSE, fillOpacity = 0.5) %>%
+ addCircleMarkers(
+   lng = 11.1585672,  lat = 43.7800525, 
+   label = "Summer school instructor (Labex Dynamite)",
+    radius = 7,
+    color = "#00A6D6",
+    stroke = FALSE, fillOpacity = 0.5)%>%
+ addCircleMarkers(
+   lng = 3.0605442, lat = 50.627957,
+    label = "Summer school instructor (Quantilille)",
+   radius = 7,
+    color = "#00A6D6",
+    stroke = FALSE, fillOpacity = 0.5)%>%
+ addCircleMarkers(
+      lng = 121.3839451, lat = 31.3164904,
+    label = "Lecturer in Urban Modelling (U. of Shanghai)",
+    radius = 7,
+    color = "#00A6D6",
+    stroke = FALSE, fillOpacity = 0.5)
+
+
+```
+
+
+## On-going Teaching {#teaching-ongoing}
+
+
+## Previous Teaching {#teaching-previous}
+
+
+[Back to home page](http://clementinecttn.github.io/)

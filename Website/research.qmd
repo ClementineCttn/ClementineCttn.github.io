@@ -10,6 +10,40 @@ theme: minty
 
 [Back to home page](http://clementinecttn.github.io/)
 
+### Research positions 
+
+```{r, echo=FALSE}
+library(leaflet)
+library(htmltools)
+
+locations <- read.csv(textConnection(
+"Name,Lat,Long
+2020-... Assistant professor in Urban Studies (TU Delft BK - Urbanism), 52.0055648,4.3681619
+2014-2017 Research associate (UCL-CASA),51.5219617,-0.1384865
+2018-... Research associate (CNRS-CMH) | 2011-2014 PhD Candidate in Urban Geography (U. Paris 1 Panthéon Sorbonne),48.8447567,2.3399484
+
+"
+))
+
+
+leaflet(locations) %>% 
+  setView(4.3681619, 52.0055648, 3) %>%
+  addProviderTiles(providers$CartoDB.Positron) %>%
+  addCircleMarkers(~Long, ~Lat, popup = ~htmlEscape(Name),
+    radius = 10,
+    color = "#E30B5C",
+    stroke = FALSE, fillOpacity = 0.5) %>%
+ addCircleMarkers(
+      lng = 39.037904, lat = 47.2599601,
+    label = "Research Assistant (U. of Southern Russia)",
+    radius = 7,
+    color = "#85001D",
+    stroke = FALSE, fillOpacity = 0.5)
+
+
+```
+
+
 ## On-going project {#research-ongoing}
 
 My main line of research revolves around the integration of multiple mechanisms of economic segregation in analytical models of cities. This is the core of my [ERC Starting Grant SEGUE](erc-segue.nl), which started in September 2022 and will run until August 2027. 
@@ -34,7 +68,7 @@ To operationalise this idea, I review existing knowledge and relevant models [@c
 Systematic literature reviews have been a method of choice that I have used, developed and argued for in urban studies and agent-based modelling over the past 5 years [@cottineau2017metazipf] [@cottineau2022analyses] [@janssen2023gentrification]  [@cottineau2024generative] because they are particularly suited to multidisciplinary research fields (where it is easy to miss literature in a different discipline because a given concept or process is known and studied under a different term) and when we are interested in reviewing emerging methods such as ABMs (where most models are built from scratch for a single use, hindering cumulative knowledge and the incremental improvement of models). Using this experience, I now work on improving approaches and sharing open toolboxes available for urban researchers and agent-based modellers to conduct systematic reviews [@achter2024conduct].
 
 
-## Past projects
+## Previous projects
 
 - In the past, I have studied urban scaling laws and how the delineation of cities (for instance the choice of density and commuting thresholds) affected their estimation [@cottineau2017diverse] [@finance2019absent] [@cottineau2019mobile].
 
