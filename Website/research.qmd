@@ -1,0 +1,48 @@
+---
+title: "Research"
+format: html
+editor: visual
+bibliography: research_references.bib 
+csl: apa.csl
+link-citations: true
+theme: minty 
+---
+
+[Back to home page](http://clementinecttn.github.io/)
+
+## On-going project {#research-ongoing}
+
+My main line of research revolves around the integration of multiple mechanisms of economic segregation in analytical models of cities. This is the core of my [ERC Starting Grant SEGUE](erc-segue.nl), which started in September 2022 and will run until August 2027. 
+
+The knowledge gaps related to the evolution of urban economic segregation in multiple cities can be reduced first, by accounting for the economic composition and inequality dynamics of the entire system (nationally), and second, by accounting for individual and family trajectories of economic mobility, through a focus on demographic factors and wealth transmission. Although these national and individual processes are well documented empirically and theoretically, we do not know where they materialise (between and within cities) and how they interact with other spatial processes. 
+
+The innovative ambition of **SEGUE** is to consider, for the first time, the analysis of processes of (re-)production of inequality which affect the spatial distribution of economic groups in cities through the construction of a modular agent-based model, calibrated on exhaustive longitudinal and geolocated empirical microdata from the Netherlands. 
+
+My ultimate objective is to use this model to assess and compare different policy strategies (typical, past and current) to reduce urban inequality and economic segregation in a cost-effective and time-saving way: within the virtual laboratory of a simulation (in silico). This objective can only be fulfilled if the relevant drivers of urban economic segregation are accounted for jointly.
+
+
+## Current research Topics
+
+### Analytical urban models of urban inequality
+
+In my research, I use analytical models to integrate and archive multidisciplinary knowledge on cities and to highlight patterns and stylised facts which are not currently well understood and explained. Following epistemological developments in analytical sociology [@hedstrom2005dissecting], I defend the idea that descriptive models (e.g. statistical regression) and generative models (e.g. agent-based models - ABMs) can be used in combination to produce better and more robust causal explanations of collective urban phenomena such as economic segregation.
+
+To operationalise this idea, I review existing knowledge and relevant models [@cottineau2024unforeseen], combine them into modular infrastructure of agent-based modelling [@cottineau2015modular], and use empirical microdata to test hypotheses [@cottineau2020nested] [@askenazy2024geography]. 
+
+### Systematic literatre reviews 
+
+Systematic literature reviews have been a method of choice that I have used, developed and argued for in urban studies and agent-based modelling over the past 5 years [@cottineau2017metazipf] [@cottineau2022analyses] [@janssen2023gentrification]  [@cottineau2024generative] because they are particularly suited to multidisciplinary research fields (where it is easy to miss literature in a different discipline because a given concept or process is known and studied under a different term) and when we are interested in reviewing emerging methods such as ABMs (where most models are built from scratch for a single use, hindering cumulative knowledge and the incremental improvement of models). Using this experience, I now work on improving approaches and sharing open toolboxes available for urban researchers and agent-based modellers to conduct systematic reviews [@achter2024conduct].
+
+
+## Past projects
+
+- In the past, I have studied urban scaling laws and how the delineation of cities (for instance the choice of density and commuting thresholds) affected their estimation [@cottineau2017diverse] [@finance2019absent] [@cottineau2019mobile].
+
+- As part of my PhD research, I looked into the specificity of urbanisation in the post-Soviet space, using general models as baseline [@cottineau2011processus] [@cottineau2012intermediate]  [@cottineau2015modular] [@cottineau2017peut] and considering urban shrinkage [@cottineau2016multilevel] [@cottineau2018russian].
+ 
+## References
+
+::: {#refs}
+:::
+
+[Back to home page](http://clementinecttn.github.io/)
