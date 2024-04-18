@@ -7,7 +7,7 @@ csl: apa.csl
 link-citations: true
 theme: minty 
 ---
-[Back to home page](http://clementinecttn.github.io/)
+[<- Back to home page](http://clementinecttn.github.io/)
 
 ## Most recent {#publi-recent}
 

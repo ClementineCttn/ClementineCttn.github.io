@@ -8,7 +8,15 @@ link-citations: true
 theme: minty 
 ---
 
-[Back to home page](http://clementinecttn.github.io/)
+[<- Back to home page](http://clementinecttn.github.io/)
+
+
+I am currently an assistant professor of Urban Studies at the Faculty of Architecture of [TU Delft](https://www.tudelft.nl/en/architecture-and-the-built-environment/about-the-faculty/departments/urbanism/organisation/sections/urban-studies/), where I teach about [social science, programming and academic writing](http://clementinecttn.github.io/Website/teaching#teaching-ongoing). Previously, I have taught courses on [methodology, urban studies and modelling](http://clementinecttn.github.io/Website/teaching#teaching-previous). I see teaching and learning at their best when they are:
+
+-   **Open**: open-source software, open-registration, open to innovations
+-   **Evolutive**: Evolutive content and Evolutive teaching roles
+-   **Collaborative**: Collaborative design, and Collaborative learning
+
 
 ### Teaching positions 
 
@@ -54,10 +62,38 @@ leaflet(locations) %>%
 ```
 
 
-## On-going Teaching {#teaching-ongoing}
+## On-going education at TU Delft {#teaching-ongoing}
+
+- The [Geospatial Data Carpentry for Urbanism](https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/geospatial-data-carpentry-for-urbanism)
+
+Created in 2022, this 2-day intensive course is now part of TUD Library's annual training offer. It aims at enhancing Open Science practices for **reproducible, automated and scalable** research with the R programming language. During the course, participants learn about the basic concepts, skills and tools for working efficient with geospatial data.
+
+- Social Science Approach to Urbanism Seminar series
+
+Created in 2021, this seminar series is available for the student of the Master Urbanism at the Faculty of Architecture. It guides urbanists and designers in identifying and critically discussing **social science theories, concepts and methods** relevant to their studies, as well as to **operationalising** them in their graduation thesis.
+
+- Academic Writing (BK2AC1)
+
+I also take part in this course on academic writing as a tutor for 1st year architecture students who learn how to review the academic literature and write scientific papers.
+
+- The [Rbanism](https://rbanism.org/) community
+
+As a co-founder and core member of this community, I aim to spread knowledge about programming and the R language for urbanism studies, foster interactions and information-sharing among students, teachers and researchers.
 
 
 ## Previous Teaching {#teaching-previous}
+
+### Summer schools
+- In 2023, Julie Vallée and I trained around 20 students on how to perform [geographical multilevel modelling with R](https://github.com/ClementineCttn/QuantiLilleGeo) at the Quantille summer school.
+
+- In 2018, Paul Chapron and I trained around 40 students on how to model [systems dynamics and urban segregation with R](https://dynamitestaff.github.io/R-workshops/Modeling/syllabus/Modelling_Data_Part1.html) at the LabEx DynamiTe Summer school on massive spatial data.
+
+### BSc Engineering, University of Shanghai
+In 2019, I taught a 2-week course on Urban models and agent-based simulations to 300 thrid-year students, including lectures and practicals.
+
+### BSc Geography, University of Paris 1 Panthéon-Sorbonne
+Between 2012 and 2014, I taught courses on urban geography, data maning, map-making and statistics to bachelor students of all levels.
+
 
 
 [Back to home page](http://clementinecttn.github.io/)
