@@ -417,7 +417,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 
 /* line 27, ../_scss/styles.scss */
 body {
-  font-family: Lato, arial;
+  font-family: Archvio;
   background: #ffffff;
   overflow-x: hidden;
   line-height: 1.6em;
@@ -640,7 +640,7 @@ body header h1 {
   margin-bottom: 0.25em;
   font-weight: 300;
   color: #929398;
-  font-family: Raleway;
+  font-family: Roboto;
   text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.1);
 }
 
@@ -651,7 +651,7 @@ body h1 {
   margin-bottom: 0.25em;
   font-weight: 300;
   color: #929398;
-  font-family: Raleway;
+  font-family: Roboto;
   text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.1);
 }
 
@@ -695,7 +695,7 @@ body header a.button {
   padding: 13.33333px 26.66667px;
   border: none;
   color: white;
-  font-family: Lato;
+  font-family: Archvio;
   font-weight: 300;
   letter-spacing: 2px;
   border-radius: 4px;
