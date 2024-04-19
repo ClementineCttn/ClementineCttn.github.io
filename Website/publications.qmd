@@ -7,7 +7,8 @@ csl: apa.csl
 link-citations: true
 theme: minty 
 ---
-[<- Back to home page](http://clementinecttn.github.io/)
+
+[\<- Back to home page](http://clementinecttn.github.io/)
 
 ## Most recent {#publi-recent}
 
@@ -25,7 +26,7 @@ theme: minty
 -   on Agent-based modelling: [@cottineau2015modular] [@cottineau2015growing] [@cherel2015beyond] [@raimbault2019space] [@achter2024conduct]
 -   on Urbanisation in the post-Soviet Space: [@cottineau2011processus] [@cottineau2012intermediate] [@cottineau2015modular] [@cottineau2015growing] [@cottineau2016multilevel] [@cottineau2017peut]
 -   on the Geography of production: [@cottineau2020nested] [@brochard2022negociation] [@askenazy2024geography]
--   on Urban policy: [@schneider2019decentralisation]
+-   on Urban policy: [@schneider2019decentralisation] [@cottineau2024unforeseen]
 
 ## Books {#publi-books}
 
@@ -35,12 +36,12 @@ theme: minty
 
 ## Book chapters {#publi-book-chapters}
 
--   In R. Harris, A. Heppenstall, & L. J. Wolf (Eds.), A research agenda for spatial analysis: [@cottineau2024generative]
--   In C. Cottineau & J. Vallée (Eds.), Inequalities in geographical space: [@cottineau2022introduction] [@cottineau2022modeling]
--   In C. Cottineau & D. Pumain (Eds.), Cities at the heart of inequalities: [@cottineau2022major] [@cottineau2022inequalitiesbetweencities]
--   In D. Pumain (Ed.), Theories and models of urbanization: Geography, economics and computing sciences: [@baffi2020emerging]
--   In D. Pumain (Ed.), Geographical modeling: Cities and territories: [@cottineau2019incremental]
--   In D. Pumain, C. Rozenblat, & E. Velasquez (Eds.), International and transnational perspectives on urban systems: [@cottineau2018russian]
+-   In R. Harris, A. Heppenstall, & L. J. Wolf (Eds.), 2024, *A research agenda for spatial analysis*: [@cottineau2024generative]
+-   In C. Cottineau & J. Vallée (Eds.), 2022, *Inequalities in geographical space*: [@cottineau2022introduction] [@cottineau2022modeling]
+-   In C. Cottineau & D. Pumain (Eds.), 2022, *Cities at the heart of inequalities*: [@cottineau2022major] [@cottineau2022inequalitiesbetweencities]
+-   In D. Pumain (Ed.), 2020, *Theories and models of urbanization: Geography, economics and computing sciences*: [@baffi2020emerging]
+-   In D. Pumain (Ed.), 2019, *Geographical modeling: Cities and territories*: [@cottineau2019incremental]
+-   In D. Pumain, C. Rozenblat, & E. Velasquez (Eds.), 2018, *International and transnational perspectives on urban systems*: [@cottineau2018russian]
 
 ## Other {#publi-other}
 
