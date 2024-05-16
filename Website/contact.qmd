@@ -5,10 +5,9 @@ editor: visual
 theme: minty 
 ---
 
-You can contact me via [e-mail](mailto:c.cottineau@tudelft.nl), social media ([Mastodon](https://mastodon.social/@clementinecttn),
-[X](https://twitter.com/ClementineCttn)), through [Github](https://github.com/ClementineCttn) or by traditional mail:
+You can contact me via [e-mail](mailto:c.cottineau@tudelft.nl), social media ([Mastodon](https://mastodon.social/@clementinecttn), [X](https://twitter.com/ClementineCttn)), through [Github](https://github.com/ClementineCttn) or by traditional mail:
 
-**Dr. Clémentine Cottineau**
+**Dr. Clémentine Cottineau-Mugadza**
 
 TU Delft, Faculty of Architecture
 
@@ -17,7 +16,6 @@ Department of Urbanism, Urban studies section
 Building 8, room BG.West.700
 
 Julianalaan 134, 2628BL, Delft (NL)
-
 
 ```{r, echo=FALSE}
 library(leaflet)
@@ -35,7 +33,4 @@ leaflet() %>%
 
 ```
 
-
-
-
-[<- Back to home page](http://clementinecttn.github.io/)
+[\<- Back to home page](http://clementinecttn.github.io/)
