@@ -48,6 +48,7 @@ theme: minty
 -   My PhD Dissertation: [@cottineau2014evolution]
 -   Non-peer-reviewed article: [@drouzhinin2010identifikatsia]
 -   Working Papers: [@cottineau2016jean] [@barner2017multiscale] [@cottineau2018agent]
+-   Workshop repository: [@Forgaci_Geospatial_Data_Carpentry]
 -   Book reviews: [@cottineau2011baron] [@cottineau2014piketty] [@cottineau2017west] [@cottineau2020lahire]
 -   Report: [@avila2011mapping]
 
