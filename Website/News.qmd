@@ -12,19 +12,16 @@ link-citations: true
 
 ## Current vacancies
 
-- None for now...
+-   None for now...
 
 ## Most recent news articles
 
--  [A collaborative approach to digital research data training](https://www.tudelft.nl/en/open-science/articles-tu-delft/a-collaborative-approach-to-digital-research-data-training), TU Delft Open Science. 
-
+-   [A collaborative approach to digital research data training](https://www.tudelft.nl/en/open-science/articles-tu-delft/a-collaborative-approach-to-digital-research-data-training), TU Delft Open Science.
 
 ## Most recent publications
-
--   [@cottineau2024generative]: This piece is a manifesto on desirable future paths for generative modelling in the field of spatial analysis
--   [@cottineau2024unforeseen]: In this article, we analyse the ways in which analytical urban models circulate, in light of the diversity of their objectives, the circumstances in which they were produced and the economic or political interests expressed by their users.
--   [@askenazy2024geography]: In here, P. Askenazy and I looked at the structure of bargaining within multi-establishment firms and whether the level chosen depends on the geography of the firm.
-
+-  **May 2024** [@cottineau2024accommodating]: On the occasion of the 50th anniversary of the journal, this commentary looks back at 5 decades of Environment and Planning B and looks forward to where the journal (and the field of urban analytics and city science) might go.
+-  **May 2024** [@cottineau2024generative]: This piece is a manifesto on desirable future paths for generative modelling in the field of spatial analysis
+-  **April 2024** [@cottineau2024unforeseen]: In this article, we analyse the ways in which analytical urban models circulate, in light of the diversity of their objectives, the circumstances in which they were produced and the economic or political interests expressed by their users.
 
 ## References
 
@@ -32,4 +29,3 @@ link-citations: true
 :::
 
 [Back to home page](http://clementinecttn.github.io/)
-
