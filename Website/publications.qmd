@@ -11,6 +11,7 @@ theme: minty
 [\<- Back to home page](http://clementinecttn.github.io/)
 
 ## Most recent {#publi-recent}
+
 -   [@cottineau2024accommodating]: On the occasion of the 50th anniversary of the journal, this commentary looks back at 5 decades of Environment and Planning B and looks forward to where the journal (and the field of urban analytics and city science) might go.
 -   [@cottineau2024generative]: This piece is a manifesto on desirable future paths for generative modelling in the field of spatial analysis
 -   [@cottineau2024unforeseen]: In this article, we analyse the ways in which analytical urban models circulate, in light of the diversity of their objectives, the circumstances in which they were produced and the economic or political interests expressed by their users.

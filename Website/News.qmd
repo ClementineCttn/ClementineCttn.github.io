@@ -10,21 +10,16 @@ link-citations: true
 
 [\<- Back to home page](http://clementinecttn.github.io/)
 
-## Next Talks
-
-- **May 2024, Delft**: "Using theory, data and ABM to model urban economic segregation in the Netherlands within the ERC project SEGUE". Presentation at the CBS/TUD seminar on modeling urban segregation with microdata, ABM and synthetic population.
-- **June 2024, London**: "Systematic Literature Reviews for quantitative urban studies". Seminar presentation at CASA-UCL
 
 ## Next Conferences
 
-- **July 2024, Belfast**: 12th International Conference on Population Geographies
-- **September 2024, Krakow**: 19th annual Social Simulation Conference (SSC 2024)
-
+-   **July 2024, Belfast**: 12th International Conference on Population Geographies
+-   **September 2024, Krakow**: 19th annual Social Simulation Conference (SSC 2024)
 
 ## Current projects
 
 -   [ERC Starting Grant SEGUE](erc-segue.nl): modelling urban economic segregation in cities of the Netherlands. This project combines systematic literature reviews, longitudinal analysis of empirical microdata and generative agent-based modelling to address the evolution and causal relationships between economic segregation and economic inequality in cities.
--   [Rbanism](rbanism.org): empowering urbanism researchers, students, educators and practitioners to use open-source software and related open-science practices effectively and with confidence. This community project raises awareness, stimulates engagement and builds capacity by demonstrating the benefits of reproducibility, automation and scalability for urbanism research, education and practice. 
+-   [Rbanism](rbanism.org): empowering urbanism researchers, students, educators and practitioners to use open-source software and related open-science practices effectively and with confidence. This community project raises awareness, stimulates engagement and builds capacity by demonstrating the benefits of reproducibility, automation and scalability for urbanism research, education and practice.
 
 ## Current vacancies
 
@@ -35,10 +30,10 @@ link-citations: true
 -   [A collaborative approach to digital research data training](https://www.tudelft.nl/en/open-science/articles-tu-delft/a-collaborative-approach-to-digital-research-data-training), TU Delft Open Science.
 
 ## Most recent publications
--  **May 2024** [@cottineau2024accommodating]: On the occasion of the 50th anniversary of the journal, this commentary looks back at 5 decades of Environment and Planning B and looks forward to where the journal (and the field of urban analytics and city science) might go.
--  **May 2024** [@cottineau2024generative]: This piece is a manifesto on desirable future paths for generative modelling in the field of spatial analysis
--  **April 2024** [@cottineau2024unforeseen]: In this article, we analyse the ways in which analytical urban models circulate, in light of the diversity of their objectives, the circumstances in which they were produced and the economic or political interests expressed by their users.
 
+-   **June 2024** [@cottineau2024accommodating]: On the occasion of the 50th anniversary of the journal, this commentary looks back at 5 decades of Environment and Planning B and looks forward to where the journal (and the field of urban analytics and city science) might go.
+-   **May 2024** [@cottineau2024generative]: This piece is a manifesto on desirable future paths for generative modelling in the field of spatial analysis
+-   **April 2024** [@cottineau2024unforeseen]: In this article, we analyse the ways in which analytical urban models circulate, in light of the diversity of their objectives, the circumstances in which they were produced and the economic or political interests expressed by their users.
 
 ## References
 
