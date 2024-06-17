@@ -30,7 +30,6 @@ link-citations: true
 
 ## Most recent publications
 
--   **June 2024** [@SLRbanismWorkingPaper]: In this working paper, we propose a set of guidelines and tools to design and automate several steps of systematic literature reviews, so that urbanists with limited experience in SLR can concentrate on the tasks of reading, understanding and synthetizing the knowledge collected. We operationalise our guidelines with recent examples from the field of urbanism and reusable snippets of R code.
 -   **June 2024** [@cottineau2024accommodating]: On the occasion of the 50th anniversary of the journal, this commentary looks back at 5 decades of Environment and Planning B and looks forward to where the journal (and the field of urban analytics and city science) might go.
 -   **May 2024** [@cottineau2024generative]: This piece is a manifesto on desirable future paths for generative modelling in the field of spatial analysis
 -   **April 2024** [@cottineau2024unforeseen]: In this article, we analyse the ways in which analytical urban models circulate, in light of the diversity of their objectives, the circumstances in which they were produced and the economic or political interests expressed by their users.
