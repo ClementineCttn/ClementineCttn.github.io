@@ -20,12 +20,12 @@ theme: minty
 ## Peer reviewed articles {#publi-articles}
 
 -   on Economic Inequality, residential segregation and urban inequality: [@cottineau2019defining] [@cottineau2019mobile] [@schneider2019decentralisation] [@janssen2023gentrification]
--   on Literature reviews and History of urban studies: [@cottineau2017metazipf] [@raimbault2021empowering] [@cottineau2022analyses] [@janssen2023gentrification] [@achter2024conduct] [@cottineau2024unforeseen]
--   on Urban scaling laws and systems of cities:\
+-   on Literature reviews and the history of urban studies: [@cottineau2017metazipf] [@raimbault2021empowering] [@cottineau2022analyses] [@janssen2023gentrification] [@achter2024conduct] [@cottineau2024unforeseen] [@SLRbanismWorkingPaper]
+-   on Urban scaling laws and systems of cities:
     [@pumain2015multilevel] [@cottineau2017diverse] [@cura2017old] [@cottineau2017metazipf] [@finance2019absent] [@cottineau2019defining]
 -   on Agent-based modelling: [@cottineau2015modular] [@cottineau2015growing] [@cherel2015beyond] [@raimbault2019space] [@achter2024conduct]
 -   on Urbanisation in the post-Soviet Space: [@cottineau2011processus] [@cottineau2012intermediate] [@cottineau2015modular] [@cottineau2015growing] [@cottineau2016multilevel] [@cottineau2017peut]
--   on the Geography of production: [@cottineau2020nested] [@brochard2022negociation] [@askenazy2024geography]
+-   on the Geography of production: [@cottineau2019defining] [@cottineau2020nested] [@brochard2022negociation] [@askenazy2024geography]
 -   on Urban policy: [@schneider2019decentralisation] [@cottineau2024unforeseen]
 
 ## Books {#publi-books}
