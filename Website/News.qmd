@@ -12,17 +12,17 @@ link-citations: true
 
 ## Next Conferences
 
--   **July 2024, Belfast**: 12th International Conference on Population Geographies
--   **September 2024, Krakow**: 19th annual Social Simulation Conference (SSC 2024)
+-   **July 2024, Belfast**: 12th International Conference on Population Geographies.
+-   **September 2024, Krakow**: 19th annual Social Simulation Conference (SSC 2024).
 
 ## Current projects
 
--   [ERC Starting Grant SEGUE](erc-segue.nl): modelling urban economic segregation in cities of the Netherlands. This project combines systematic literature reviews, longitudinal analysis of empirical microdata and generative agent-based modelling to address the evolution and causal relationships between economic segregation and economic inequality in cities.
--   [Rbanism](rbanism.org): empowering urbanism researchers, students, educators and practitioners to use open-source software and related open-science practices effectively and with confidence. This community project raises awareness, stimulates engagement and builds capacity by demonstrating the benefits of reproducibility, automation and scalability for urbanism research, education and practice.
+-   [ERC Starting Grant SEGUE](http://www.erc-segue.nl): modelling urban economic segregation in cities of the Netherlands. This project combines systematic literature reviews, longitudinal analysis of empirical microdata and generative agent-based modelling to address the evolution and causal relationships between economic segregation and economic inequality in cities.
+-   [Rbanism](http://rbanism.org): empowering urbanism researchers, students, educators and practitioners to use open-source software and related open-science practices effectively and with confidence. This community project raises awareness, stimulates engagement and builds capacity by demonstrating the benefits of reproducibility, automation and scalability for urbanism research, education and practice.
 
 ## Current vacancies
 
--   None for now...
+-   [4-year PhD Position](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=17990&jobTitle=PhD%20position%20in%20Agent-Based%20Modelling%20of%20Urban%20Economic%20Segregation) in Agent-Based Modelling of Urban Economic Segregation at TU Delft.
 
 ## Most recent news articles
 
@@ -32,7 +32,7 @@ link-citations: true
 
 -  **June 2024** [@SLRbanismWorkingPaper]: In this working paper, we propose a set of guidelines and tools to design and automate several steps of systematic literature reviews, so that urbanists with limited experience in SLR can concentrate on the tasks of reading, understanding and synthetizing the knowledge collected. We operationalise our guidelines with recent examples from the field of urbanism and reusable snippets of R code.
 -   **June 2024** [@cottineau2024accommodating]: On the occasion of the 50th anniversary of the journal, this commentary looks back at 5 decades of Environment and Planning B and looks forward to where the journal (and the field of urban analytics and city science) might go.
--   **May 2024** [@cottineau2024generative]: This piece is a manifesto on desirable future paths for generative modelling in the field of spatial analysis
+-   **May 2024** [@cottineau2024generative]: This piece is a manifesto on desirable future paths for generative modelling in the field of spatial analysis.
 -   **April 2024** [@cottineau2024unforeseen]: In this article, we analyse the ways in which analytical urban models circulate, in light of the diversity of their objectives, the circumstances in which they were produced and the economic or political interests expressed by their users.
 
 ## References
