@@ -12,6 +12,7 @@ theme: minty
 
 ## Most recent {#publi-recent}
 
+- [@sarkar2024spatial]: In this editorial, we present a brief critical review of the field of urban inequalities and a summary of the special issue. In particular, we propose to organise knowledge on the measurement of spatial and geographic inequalities, by encoding urban geography into three dimensions: inequalities by location (city size, scale, form), inequalities by movement (transport networks, mobility, accessibility) and inequalities by larger infrastructural systems (housing stock, water, Internet) and their dynamics, management and access.
 -   [@SLRbanismWorkingPaper]: In this working paper, we propose a set of guidelines and tools to design and automate several steps of systematic literature reviews, so that urbanists with limited experience in SLR can concentrate on the tasks of reading, understanding and synthetizing the knowledge collected. We operationalise our guidelines with recent examples from the field of urbanism and reusable snippets of R code.
 -   [@cottineau2024accommodating]: On the occasion of the 50th anniversary of the journal, this commentary looks back at 5 decades of Environment and Planning B and looks forward to where the journal (and the field of urban analytics and city science) might go.
 -   [@cottineau2024generative]: This piece is a manifesto on desirable future paths for generative modelling in the field of spatial analysis
@@ -48,10 +49,11 @@ theme: minty
 -   My PhD Dissertation: [@cottineau2014evolution]
 -   Non-peer-reviewed article: [@drouzhinin2010identifikatsia]
 -   Working Papers: [@cottineau2016jean] [@barner2017multiscale] [@cottineau2018agent] [@SLRbanismWorkingPaper]
+-   Editorial: [@sarkar2024spatial]
 -   Workshop repository: [@Forgaci_Geospatial_Data_Carpentry]
 -   Book reviews: [@cottineau2011baron] [@cottineau2014piketty] [@cottineau2017west] [@cottineau2020lahire]
 -   Report: [@avila2011mapping]
--   Commentary: [@cottineau2024accommodating]
+-   Commentaries: [@cottineau2024accommodating]
 
 ## Full list {#publi-list}
 

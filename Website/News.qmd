@@ -29,6 +29,7 @@ link-citations: true
 
 ## Most recent publications
 
+-  **July 2024** [@sarkar2024spatial]: In this editorial, we present a brief critical review of the field of urban inequalities and a summary of the special issue. In particular, we propose to organise knowledge on the measurement of spatial and geographic inequalities, by encoding urban geography into three dimensions: inequalities by location (city size, scale, form), inequalities by movement (transport networks, mobility, accessibility) and inequalities by larger infrastructural systems (housing stock, water, Internet) and their dynamics, management and access.
 -   **June 2024** [@SLRbanismWorkingPaper]: In this working paper, we propose a set of guidelines and tools to design and automate several steps of systematic literature reviews, so that urbanists with limited experience in SLR can concentrate on the tasks of reading, understanding and synthetizing the knowledge collected. We operationalise our guidelines with recent examples from the field of urbanism and reusable snippets of R code.
 -   **June 2024** [@cottineau2024accommodating]: On the occasion of the 50th anniversary of the journal, this commentary looks back at 5 decades of Environment and Planning B and looks forward to where the journal (and the field of urban analytics and city science) might go.
 -   **May 2024** [@cottineau2024generative]: This piece is a manifesto on desirable future paths for generative modelling in the field of spatial analysis.

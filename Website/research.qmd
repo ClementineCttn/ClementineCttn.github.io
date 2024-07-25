@@ -61,9 +61,9 @@ My ultimate objective is to use this model to assess and compare different polic
 
 In my research, I use analytical models to integrate and archive multidisciplinary knowledge on cities and to highlight patterns and stylised facts which are not currently well understood and explained. Following epistemological developments in analytical sociology [@hedstrom2005dissecting], I defend the idea that descriptive models (e.g. statistical regression) and generative models (e.g. agent-based models - ABMs) can be used in combination to produce better and more robust causal explanations of collective urban phenomena such as economic segregation.
 
-To operationalise this idea, I review existing knowledge and relevant models [@cottineau2024unforeseen], combine them into modular infrastructure of agent-based modelling [@cottineau2015modular], and use empirical microdata to test hypotheses [@cottineau2020nested] [@askenazy2024geography].
+To operationalise this idea, I review existing knowledge and relevant models [@cottineau2024unforeseen] [@sarkar2024spatial], combine them into modular infrastructure of agent-based modelling [@cottineau2015modular], and use empirical microdata to test hypotheses [@cottineau2020nested] [@askenazy2024geography].
 
-### Systematic literatre reviews {#research-review}
+### Systematic literature reviews {#research-review}
 
 Systematic literature reviews have been a method of choice that I have used, developed and argued for in urban studies and agent-based modelling over the past 5 years [@cottineau2017metazipf] [@cottineau2022analyses] [@janssen2023gentrification] [@cottineau2024generative] because they are particularly suited to multidisciplinary research fields (where it is easy to miss literature in a different discipline because a given concept or process is known and studied under a different term) and when we are interested in reviewing emerging methods such as ABMs (where most models are built from scratch for a single use, hindering cumulative knowledge and the incremental improvement of models). Using this experience, I now work on improving approaches and sharing open toolboxes available for urban researchers and agent-based modellers to conduct systematic reviews [@achter2024conduct] [@SLRbanismWorkingPaper].
 
