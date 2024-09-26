@@ -2,7 +2,7 @@
 title: "Research"
 format: html
 editor: visual
-bibliography: research_references.bib 
+bibliography: all_references.bib 
 csl: apa.csl
 link-citations: true
 theme: minty 
@@ -61,7 +61,7 @@ My ultimate objective is to use this model to assess and compare different polic
 
 In my research, I use analytical models to integrate and archive multidisciplinary knowledge on cities and to highlight patterns and stylised facts which are not currently well understood and explained. Following epistemological developments in analytical sociology [@hedstrom2005dissecting], I defend the idea that descriptive models (e.g. statistical regression) and generative models (e.g. agent-based models - ABMs) can be used in combination to produce better and more robust causal explanations of collective urban phenomena such as economic segregation.
 
-To operationalise this idea, I review existing knowledge and relevant models [@cottineau2024unforeseen] [@sarkar2024spatial], combine them into modular infrastructure of agent-based modelling [@cottineau2015modular], and use empirical microdata to test hypotheses [@cottineau2020nested] [@askenazy2024geography].
+To operationalise this idea, I review existing knowledge and relevant models [@cottineau2024unforeseen] [@sarkar2024spatial], combine them into modular infrastructure of agent-based modelling [@cottineau2015modular], and use empirical microdata to test hypotheses [@cottineau2020nested] [@askenazy2024geography] [@janssen2024spatial].
 
 ### Systematic literature reviews {#research-review}
 
