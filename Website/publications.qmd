@@ -12,6 +12,7 @@ theme: minty
 
 ## Most recent {#publi-recent}
 
+-   [@cottineau2024SLRIneq]: In this working paper, I examine how economic inequality and economic segregation are connected theoretically and empirically. I do so by systematically analyzing the direction of causality, causal pathways and temporal relationship reflected by a multidisciplinary and multilingual literature. I conclude that variations in economic segregation follow differences in economic inequality in the short term and that reverse causality is more probable in the longer term, that the housing market is the most frequent mediator between economic inequality and economic segregation and that the current scholarship on the topic is far from comparable, although compatible definitions and measurements of inequality and segregation are rising.
 -   [@janssen2024spatial]: In this article, we analyse the spillover effects of contemporary state-led gentrification in Rotterdam. More specifically, we analyse the changing socioeconomic characteristics of in-movers and the changing origin locations of residential moves, concluding that Rotterdam increasingly attracts middle- to high-income households from other core cities in the Netherlands while intra-urban moves by economically vulnerable residents are declining, especially toward and within gentrifying neighborhoods. 
 -   [@sarkar2024spatial]: In this editorial, we present a brief critical review of the field of urban inequalities and a summary of the special issue. In particular, we propose to organise knowledge on the measurement of spatial and geographic inequalities, by encoding urban geography into three dimensions: inequalities by location (city size, scale, form), inequalities by movement (transport networks, mobility, accessibility) and inequalities by larger infrastructural systems (housing stock, water, Internet) and their dynamics, management and access.
 -   [@SLRbanismWorkingPaper]: In this working paper, we propose a set of guidelines and tools to design and automate several steps of systematic literature reviews, so that urbanists with limited experience in SLR can concentrate on the tasks of reading, understanding and synthetizing the knowledge collected. We operationalise our guidelines with recent examples from the field of urbanism and reusable snippets of R code.
@@ -19,8 +20,8 @@ theme: minty
 
 ## Peer reviewed articles {#publi-articles}
 
--   on Economic Inequality, residential segregation and urban inequality: [@cottineau2019defining] [@cottineau2019mobile] [@schneider2019decentralisation] [@janssen2023gentrification] [@janssen2024spatial]
--   on Literature reviews and the history of urban studies: [@cottineau2017metazipf] [@raimbault2021empowering] [@cottineau2022analyses] [@janssen2023gentrification] [@achter2024conduct] [@cottineau2024unforeseen] [@SLRbanismWorkingPaper]
+-   on Economic Inequality, residential segregation and urban inequality: [@cottineau2019defining] [@cottineau2019mobile] [@schneider2019decentralisation] [@janssen2023gentrification] [@janssen2024spatial] 
+-   on Literature reviews and the history of urban studies: [@cottineau2017metazipf] [@raimbault2021empowering] [@cottineau2022analyses] [@janssen2023gentrification] [@achter2024conduct] [@cottineau2024unforeseen] 
 -   on Urban scaling laws and systems of cities: [@pumain2015multilevel] [@cottineau2017diverse] [@cura2017old] [@cottineau2017metazipf] [@finance2019absent] [@cottineau2019defining]
 -   on Agent-based modelling: [@cottineau2015modular] [@cottineau2015growing] [@cherel2015beyond] [@raimbault2019space] [@achter2024conduct]
 -   on Urbanisation in the post-Soviet Space: [@cottineau2011processus] [@cottineau2012intermediate] [@cottineau2015modular] [@cottineau2015growing] [@cottineau2016multilevel] [@cottineau2017peut]
@@ -46,7 +47,7 @@ theme: minty
 
 -   My PhD Dissertation: [@cottineau2014evolution]
 -   Non-peer-reviewed article: [@drouzhinin2010identifikatsia]
--   Working Papers: [@cottineau2016jean] [@barner2017multiscale] [@cottineau2018agent] [@SLRbanismWorkingPaper]
+-   Working Papers: [@cottineau2016jean] [@barner2017multiscale] [@cottineau2018agent] [@SLRbanismWorkingPaper] [@cottineau2024SLRIneq]
 -   Editorial: [@sarkar2024spatial]
 -   Workshop repository: [@Forgaci_Geospatial_Data_Carpentry]
 -   Book reviews: [@cottineau2011baron] [@cottineau2014piketty] [@cottineau2017west] [@cottineau2020lahire]
