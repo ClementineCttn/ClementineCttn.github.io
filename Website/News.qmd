@@ -18,7 +18,7 @@ link-citations: true
 ## Current projects
 
 -   [ERC Starting Grant SEGUE](http://www.erc-segue.nl): modelling urban economic segregation in cities of the Netherlands. This project combines systematic literature reviews, longitudinal analysis of empirical microdata and generative agent-based modelling to address the evolution and causal relationships between economic segregation and economic inequality in cities.
--   [Rbanism](http://rbanism.org): empowering urbanism researchers, students, educators and practitioners to use open-source software and related open-science practices effectively and with confidence. This community project raises awareness, stimulates engagement and builds capacity by demonstrating the benefits of reproducibility, automation and scalability for urbanism research, education and practice.
+-   [Rbanism](http://rbanism.org): empowering urbanism researchers, students, educators and practitioners to use open-source software and related open-science practices effectively and with confidence. This community project raises awareness, stimulates engagement and builds capacity by demonstrating the benefits of reproducibility, automation and scalability for urbanism research, education and practice. Our latest [newsletter](https://bqe9v.r.sp1-brevo.net/mk/mr/sh/OycXxko2a8zXNsWUMmAf5ocI/IPZYg1rPaiha) is out.
 
 
 ## Recent news articles
@@ -31,7 +31,7 @@ link-citations: true
 -   **September 2024** [@janssen2024spatial]: In this article, we analyse the spillover effects of contemporary state-led gentrification in Rotterdam. More specifically, we analyse the changing socioeconomic characteristics of in-movers and the changing origin locations of residential moves, concluding that Rotterdam increasingly attracts middle- to high-income households from other core cities in the Netherlands while intra-urban moves by economically vulnerable residents are declining, especially toward and within gentrifying neighborhoods. 
 -   **July 2024** [@sarkar2024spatial]: In this editorial, we present a brief critical review of the field of urban inequalities and a summary of the special issue. In particular, we propose to organise knowledge on the measurement of spatial and geographic inequalities, by encoding urban geography into three dimensions: inequalities by location (city size, scale, form), inequalities by movement (transport networks, mobility, accessibility) and inequalities by larger infrastructural systems (housing stock, water, Internet) and their dynamics, management and access.
 -   **June 2024** [@SLRbanismWorkingPaper]: In this working paper, we propose a set of guidelines and tools to design and automate several steps of systematic literature reviews, so that urbanists with limited experience in SLR can concentrate on the tasks of reading, understanding and synthetizing the knowledge collected. We operationalise our guidelines with recent examples from the field of urbanism and reusable snippets of R code.
--   **June 2024** [@cottineau2024accommodating]: On the occasion of the 50th anniversary of the journal, this commentary looks back at 5 decades of Environment and Planning B and looks forward to where the journal (and the field of urban analytics and city science) might go.
+
 
 ## References
 
