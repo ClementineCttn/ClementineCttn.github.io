@@ -5,7 +5,7 @@ editor: visual
 theme: minty 
 ---
 
-You can contact me via [e-mail](mailto:c.cottineau@tudelft.nl), social media ([Mastodon](https://mastodon.social/@clementinecttn), [X](https://twitter.com/ClementineCttn)), through [Github](https://github.com/ClementineCttn) or by traditional mail:
+You can contact me via [e-mail](mailto:c.cottineau@tudelft.nl), social media ([Mastodon](https://mastodon.social/@clementinecttn), [BlueSky](https://bsky.app/profile/clementinecttn.bsky.social)), through [Github](https://github.com/ClementineCttn) or by traditional mail:
 
 **Dr. Clémentine Cottineau-Mugadza**
 
