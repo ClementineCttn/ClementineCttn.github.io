@@ -14,16 +14,14 @@ link-citations: true
 
 - With **Rbanism**, we are entering the [#30DayMapChallenge](https://github.com/Rbanism/30DayMapChallenge2024) as a community and challenging ourselves to produce all maps using R. Our maps will be posted on Instagram (\@rbanism_), BlueSky (\@rbanism.bsky.social) and on our [website](rbanism.org).
 
-## Future trainings
-
--   The next edition of the [Geospatial Data Carpentry for Urbanism]() workshop will take place on Monday, February 10th, and Tuesday, February 11th, 2025. More information about the content and registration will follow [here](https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/geospatial-data-carpentry-for-urbanism).
-
-
 ## Current projects
 
 -   [ERC Starting Grant SEGUE](http://www.erc-segue.nl): modelling urban economic segregation in cities of the Netherlands. This project combines systematic literature reviews, longitudinal analysis of empirical microdata and generative agent-based modelling to address the evolution and causal relationships between economic segregation and economic inequality in cities.
 -   [Rbanism](http://rbanism.org): empowering urbanism researchers, students, educators and practitioners to use open-source software and related open-science practices effectively and with confidence. This community project raises awareness, stimulates engagement and builds capacity by demonstrating the benefits of reproducibility, automation and scalability for urbanism research, education and practice. Our latest [newsletter](https://bqe9v.r.sp1-brevo.net/mk/mr/sh/OycXxko2a8zXNsWUMmAf5ocI/IPZYg1rPaiha) is out.
 
+## Future trainings
+
+-   The next edition of the [Geospatial Data Carpentry for Urbanism]() workshop will take place on Monday, February 10th, and Tuesday, February 11th, 2025. More information about the content and registration will follow [here](https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/geospatial-data-carpentry-for-urbanism).
 
 ## Recent news articles
 
