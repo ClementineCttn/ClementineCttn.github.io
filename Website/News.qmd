@@ -10,6 +10,10 @@ link-citations: true
 
 [\<- Back to home page](http://clementinecttn.github.io/)
 
+## Current activities
+
+- With [Rbanism](rbanism.org), we are entering the #30DayMapChallenge as a community and challenging ourselves to produce all maps using R. Our maps will be posted on Instagram (\@rbanism_), BlueSky (\@rbanism.bsky.social) and on our website.
+
 ## Future trainings
 
 -   The next edition of the [Geospatial Data Carpentry for Urbanism]() workshop will take place on Monday, February 10th, and Tuesday, February 11th, 2025. More information about the content and registration will follow [here](https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/geospatial-data-carpentry-for-urbanism).
