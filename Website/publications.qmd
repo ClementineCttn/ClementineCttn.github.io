@@ -46,7 +46,7 @@ theme: minty
 ## Other {#publi-other}
 
 -   My PhD Dissertation: [@cottineau2014evolution]
--   Non-peer-reviewed article: [@drouzhinin2010identifikatsia]
+-   Non-peer-reviewed articles: [@drouzhinin2010identifikatsia] [@covprehension2020understanding]
 -   Working Papers: [@cottineau2016jean] [@barner2017multiscale] [@cottineau2018agent] [@SLRbanismWorkingPaper] [@cottineau2024SLRIneq]
 -   Editorial: [@sarkar2024spatial]
 -   Workshop repository: [@Forgaci_Geospatial_Data_Carpentry]

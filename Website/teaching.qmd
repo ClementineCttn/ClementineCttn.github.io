@@ -65,9 +65,9 @@ leaflet(locations) %>%
 
 Created in 2022, this 2-day intensive course is now part of TUD Library's annual training offer. It aims at enhancing Open Science practices for **reproducible, automated and scalable** research with the R programming language. During the course, participants learn about the basic concepts, skills and tools for working efficient with geospatial data. The content of the workshop is available under a CC BY 4.0 license: [@Forgaci_Geospatial_Data_Carpentry].
 
--   Social Science Approach to Urbanism Seminar series
+-   Social Science Approaches to Urbanism
 
-Created in 2021, this seminar series is available for the student of the Master Urbanism at the Faculty of Architecture. It guides urbanists and designers in identifying and critically discussing **social science theories, concepts and methods** relevant to their studies, as well as to **operationalising** them in their graduation thesis.
+Created in 2021, this seminar-series-turned-workshop is available for the student of the Master Urbanism at the Faculty of Architecture. It guides urbanists and designers in identifying and critically discussing **social science theories, concepts and methods** relevant to their studies, as well as to **operationalising** them in their graduation thesis.
 
 -   Academic Writing (BK2AC1)
 
