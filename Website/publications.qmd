@@ -12,15 +12,14 @@ theme: minty
 
 ## Most recent {#publi-recent}
 
+- [@cottineau2025citysize]: In this chapter, I present an overview of patterns and regularities in city size distributions. Starting from a short history of early findings, I go on to present Zipf’s contribution, the plethora of empirical material which can be interpreted as a confirmation of the law and some models generating such a regular distribution. The deviations from the law and recent propositions to advance the study of urbanisation “beyond Zipf’s law” are also presented. 
+
 - [@san_millan_economic_2025]: In this paper, we compute income inequality and residential segregation annually in all urban areas of the Netherlands from 2011 to 2022 and show they have remained stable or decreased in most cities. We analyse how income is distributed by percentile of the income distribution, how each percentile is segregated and at which geographical scale segregation occurs in different cities. Urban areas vary strongly: more unequal urban areas tend to be more segregated, but the same segregation levels can coexist with diverse inequality metrics.
 
 - [@cottineau2025evaluer]: In this chapter, we reflect on the specificity of peer-review for data papers, with the experience gathered from Cybergeo, a scientific open access journal publishing geography articles, where a section dedicated to data papers was created in 2017.
 
 - [@roxburg2025outlining]: In this piece, we propose a list of features that would greatly enhance population synthesis methods from the perspective of agent-based modelling. These include, but are not limited to: the attributes of agents, their location in space, the ways they make decisions and their behavioural dynamics. In the real-world, these aspects of everyday human life can be deeply interconnected, with these associations being highly consequential in shaping outcomes. Initialising synthetic populations in ways that fail to respect these covariances can therefore compromise model efficacy, potentially leading to biased and inaccurate simulation outcomes.
 
-- [@cottineau2024SLRIneq]: In this working paper, I examine how economic inequality and economic segregation are connected theoretically and empirically. I do so by systematically analyzing the direction of causality, causal pathways and temporal relationship reflected by a multidisciplinary and multilingual literature. I conclude that variations in economic segregation follow differences in economic inequality in the short term and that reverse causality is more probable in the longer term, that the housing market is the most frequent mediator between economic inequality and economic segregation and that the current scholarship on the topic is far from comparable, although compatible definitions and measurements of inequality and segregation are rising.
-
-- [@janssen2024spatial]: In this article, we analyse the spillover effects of contemporary state-led gentrification in Rotterdam. More specifically, we analyse the changing socioeconomic characteristics of in-movers and the changing origin locations of residential moves, concluding that Rotterdam increasingly attracts middle- to high-income households from other core cities in the Netherlands while intra-urban moves by economically vulnerable residents are declining, especially toward and within gentrifying neighborhoods.
 
 ## Peer reviewed articles {#publi-articles}
 
@@ -39,6 +38,7 @@ theme: minty
 -   Edited book on cities and inequalities: [@cottineau2022cities]
 
 ## Book chapters {#publi-book-chapters}
+-   In D. Rybsky (dir.), 2025, *Compendium of Urban Complexity*:  [@cottineau2025citysize]
 -   In C. Kosmopoulos & J. Schöpfel (dir.), 2025, *Publier, partager, réutiliser les données de la recherche: les data papers et leurs enjeux*: [@cottineau2025evaluer]
 -   In R. Harris, A. Heppenstall, & L. J. Wolf (Eds.), 2024, *A research agenda for spatial analysis*: [@cottineau2024generative]
 -   In C. Cottineau & J. Vallée (Eds.), 2022, *Inequalities in geographical space*: [@cottineau2022introduction] [@cottineau2022modeling]
