@@ -19,6 +19,8 @@ link-citations: true
 
 ## Recent publications
 
+- **September 2025** [@cottineau2025urban]: In this entry, Denise Pumain and I propose a definition of urban inequality. We also present the history of the concept, its central relevance for geography, regional science and urban policy.
+
 - **June 2025** [@cottineau2025citysize]: In this chapter, I present an overview of patterns and regularities in city size distributions. Starting from a short history of early findings, I go on to present Zipf’s contribution, the plethora of empirical material which can be interpreted as a confirmation of the law and some models generating such a regular distribution. The deviations from the law and recent propositions to advance the study of urbanisation “beyond Zipf’s law” are also presented. 
 
 - **May 2025** [@san_millan_economic_2025]: In this paper, we compute income inequality and residential segregation annually in all urban areas of the Netherlands from 2011 to 2022 and show they have remained stable or decreased in most cities. We analyse how income is distributed by percentile of the income distribution, how each percentile is segregated and at which geographical scale segregation occurs in different cities. Urban areas vary strongly: more unequal urban areas tend to be more segregated, but the same segregation levels can coexist with diverse inequality metrics.
