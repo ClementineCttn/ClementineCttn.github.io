@@ -55,7 +55,7 @@ The innovative ambition of **SEGUE** is to consider, for the first time, the ana
 
 My ultimate objective is to use this model to assess and compare different policy strategies (typical, past and current) to reduce urban inequality and economic segregation in a cost-effective and time-saving way: within the virtual laboratory of a simulation (in silico). This objective can only be fulfilled if the relevant drivers of urban economic segregation are accounted for jointly.
 
-Initial results of the project were published in [@cottineau2024SLRIneq] and [@san_millan_economic_2025]
+Initial results of the project were published in [@cottineau2024SLRIneq], [@san_millan_economic_2025] and [@sanmillan2025wealth]
 
 ## Current research Topics {#research-interest}
 
