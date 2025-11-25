@@ -12,6 +12,8 @@ theme: minty
 
 ## Most recent {#publi-recent}
 
+- [@cottineau2025economic]: In this article, I review multilingual and multidisciplinary strands of literature on the causal pathways between economic inequality and economic segregation. I highlight the importance of temporality in the reverse causality between the two concepts. I also advocate for up-to-date comparable indices, new and diverse case studies, especially from unequal and segregated cities from non-dominant countries and a mutual awareness between empirical and theoretical research.
+ 
 - [@sanmillan2025wealth]: In this article, we explore how the spatiotemporal patterns of affluence and poverty differ when considering wealth versus income. By analyzing geo-coded microdata from the Netherlands, we show that wealth segregation is much higher than income segregation; that financial wealth is more unequally distributed than real estate wealth across society, but is more equally distributed across space; that wealth segregation is more sensitive to the spatial scale of measurement than income segregation; that income segregation is decreasing in most urban areas whereas wealth segregation is rising almost everywhere in the Netherlands. 
 
 - [@cottineau2025urban]: In this entry, Denise Pumain and I propose a definition of urban inequality. We also present the history of the concept, its central relevance for geography, regional science and urban policy.
@@ -23,8 +25,8 @@ theme: minty
 
 ## Peer reviewed articles {#publi-articles}
 
--   on Economic Inequality, residential segregation and urban inequality: [@cottineau2019defining] [@cottineau2019mobile] [@schneider2019decentralisation] [@janssen2023gentrification] [@janssen2024spatial] [@san_millan_economic_2025] [@sanmillan2025wealth]
--   on Literature reviews and the history of urban studies: [@cottineau2017metazipf] [@raimbault2021empowering] [@cottineau2022analyses] [@janssen2023gentrification] [@achter2024conduct] [@cottineau2024unforeseen] 
+-   on Economic Inequality, residential segregation and urban inequality: [@cottineau2019defining] [@cottineau2019mobile] [@schneider2019decentralisation] [@janssen2023gentrification] [@janssen2024spatial] [@san_millan_economic_2025] [@sanmillan2025wealth] [@cottineau2025economic]
+-   on Literature reviews and the history of urban studies: [@cottineau2017metazipf] [@raimbault2021empowering] [@cottineau2022analyses] [@janssen2023gentrification] [@achter2024conduct] [@cottineau2024unforeseen] [@cottineau2025economic]
 -   on Urban scaling laws and systems of cities: [@pumain2015multilevel] [@cottineau2017diverse] [@cura2017old] [@cottineau2017metazipf] [@finance2019absent] [@cottineau2019defining]
 -   on Agent-based modelling: [@cottineau2015modular] [@cottineau2015growing] [@cherel2015beyond] [@raimbault2019space] [@achter2024conduct]
 -   on Urbanisation in the post-Soviet Space: [@cottineau2011processus] [@cottineau2012intermediate] [@cottineau2015modular] [@cottineau2015growing] [@cottineau2016multilevel] [@cottineau2017peut]

@@ -10,7 +10,7 @@ theme: minty
 
 [\<- Back to home page](http://clementinecttn.github.io/)
 
-I am currently an assistant professor of Urban Studies at the Faculty of Architecture of [TU Delft](https://www.tudelft.nl/en/architecture-and-the-built-environment/about-the-faculty/departments/urbanism/organisation/sections/urban-studies/), where I teach about [social science, programming and academic writing](http://clementinecttn.github.io/Website/teaching#teaching-ongoing). Previously, I have taught courses on [methodology, urban studies and modelling](http://clementinecttn.github.io/Website/teaching#teaching-previous). I see teaching and learning at their best when they are:
+I am currently an assistant professor of Urban Studies at the Faculty of Architecture of [TU Delft](https://www.tudelft.nl/en/architecture-and-the-built-environment/about-the-faculty/departments/urbanism/organisation/sections/urban-studies/), where I teach about [social science, programming and academic writing](http://clementinecttn.github.io/Website/teaching#teaching-ongoing). I hold a University Teaching Qualification from the TU Delft (2023) and an instructor certification from [The Carpentries](https://carpentries.org/) (2025). Previously, I have taught courses on [methodology, urban studies and modelling](http://clementinecttn.github.io/Website/teaching#teaching-previous). I see teaching and learning at their best when they are:
 
 -   **Open**: open-source software, open-registration, open to innovations
 -   **Evolutive**: Evolutive content and Evolutive teaching roles
@@ -61,7 +61,7 @@ leaflet(locations) %>%
 
 ## On-going education at TU Delft {#teaching-ongoing}
 
--   The [Geospatial Data Carpentry for Urbanism](https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/geospatial-data-carpentry-for-urbanism)
+-   The [Geospatial Data Carpentry for Urbanism](https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/geospatial-data-carpentry-for-urbanism). This workshop is now open for [beta-testing](https://carpentries.org/blog/2025/10/geospatial-data-carpentry-for-urbanism/) 
 
 Created in 2022, this 2-day intensive course is now part of TUD Library's annual training offer. It aims at enhancing Open Science practices for **reproducible, automated and scalable** research with the R programming language. During the course, participants learn about the basic concepts, skills and tools for working efficient with geospatial data. The content of the workshop is available under a CC BY 4.0 license: [@Forgaci_Geospatial_Data_Carpentry].
 
