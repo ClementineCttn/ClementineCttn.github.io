@@ -12,13 +12,14 @@ theme: minty
 
 ## Most recent {#publi-recent}
 
+- [@cottineau2026rethinking]: This is a review of the book "Rethinking Spatial Inequality", by Linda M. Lobao and Gregory Hooks.
+
 -   [@cottineau2025agent]: In this article, we model the social effect of urban segregation ‘around the clock’ on health behaviours (such as the choice of a healthy diet). We do so using an empirical agent-based model initialised on the Paris region with a synthetic population and a combination of scenarios of residential patterns (random allocation vs. census-based allocation reflecting the empirical level of residential segregation) with scenarios of daily mobility (no daily moves, random moves or survey-based daily moves reflecting the empirical level of daytime segregation in Paris). We find an increase in the uptake of healthy behaviours in all scenarios, but contrasted results with respect to social inequalities.
 
 -   [@cottineau2025economic]: In this article, I review multilingual and multidisciplinary strands of literature on the causal pathways between economic inequality and economic segregation. I highlight the importance of temporality in the reverse causality between the two concepts. I also advocate for up-to-date comparable indices, new and diverse case studies, especially from unequal and segregated cities from non-dominant countries and a mutual awareness between empirical and theoretical research.
 
 -   [@sanmillan2025wealth]: In this article, we explore how the spatiotemporal patterns of affluence and poverty differ when considering wealth versus income. By analyzing geo-coded microdata from the Netherlands, we show that wealth segregation is much higher than income segregation; that financial wealth is more unequally distributed than real estate wealth across society, but is more equally distributed across space; that wealth segregation is more sensitive to the spatial scale of measurement than income segregation; that income segregation is decreasing in most urban areas whereas wealth segregation is rising almost everywhere in the Netherlands.
 
--   [@cottineau2025urban]: In this entry, Denise Pumain and I propose a definition of urban inequality. We also present the history of the concept, its central relevance for geography, regional science and urban policy.
 
 ## Peer reviewed articles {#publi-articles}
 
@@ -36,9 +37,9 @@ theme: minty
 
 -   Edited book on cities and inequalities: [@cottineau2022cities]
 
-
 ## Book chapters {#publi-book-chapters}
--   In D. Rybski (dir.), 2025, *Compendium of Urban Complexity*:  [@cottineau2025citysize]
+
+-   In D. Rybski (dir.), 2025, *Compendium of Urban Complexity*: [@cottineau2025citysize]
 -   In C. Kosmopoulos & J. Schöpfel (dir.), 2025, *Publier, partager, réutiliser les données de la recherche: les data papers et leurs enjeux*: [@cottineau2025evaluer]
 -   In R. Harris, A. Heppenstall, & L. J. Wolf (Eds.), 2024, *A research agenda for spatial analysis*: [@cottineau2024generative]
 -   In C. Cottineau & J. Vallée (Eds.), 2022, *Inequalities in geographical space*: [@cottineau2022introduction] [@cottineau2022modeling]
@@ -55,7 +56,7 @@ theme: minty
 -   Editorial: [@sarkar2024spatial]
 -   Dictionary and encyclopedia entries: [@cottineau2025urban]
 -   Workshop repository: [@Forgaci_Geospatial_Data_Carpentry]
--   Book reviews: [@cottineau2011baron] [@cottineau2014piketty] [@cottineau2017west] [@cottineau2020lahire]
+-   Book reviews: [@cottineau2011baron] [@cottineau2014piketty] [@cottineau2017west] [@cottineau2020lahire] [@cottineau2026rethinking]
 -   Report: [@avila2011mapping]
 -   Commentaries: [@cottineau2024accommodating]
 
