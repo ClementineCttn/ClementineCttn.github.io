@@ -10,10 +10,9 @@ link-citations: true
 
 [\<- Back to home page](http://clementinecttn.github.io/)
 
-
 ## Future presentations
 
-- **May 2026**: [Synthetic populations, synthetic cities and the spatio-temporal effects of urban inequality and segregation](https://clementinecttn.github.io/SimSocFest2026/SimSocFest2026_Cottineau), SimSocFest2026, Inspirational Talks, Online.
+- **May 2026**: [Synthetic populations, synthetic cities and the spatio-temporal effects of urban inequality and segregation](https://clementinecttn.github.io/SimSocFest2026/SimSocFest2026_Cottineau), SocSimFest2026, Inspirational Talks, Online.
 
 ## Current projects
 
@@ -21,11 +20,10 @@ link-citations: true
 
 - [Rbanism](http://rbanism.org): empowering urbanism researchers, students, educators and practitioners to use open-source software and related open-science practices effectively and with confidence. This community project raises awareness, stimulates engagement and builds capacity by demonstrating the benefits of reproducibility, automation and scalability for urbanism research, education and practice.
 
-## Recent presentations
-
-- **April 2026**: [An ABM to investigate the effects of spatio-temporal segregation on health inequalities](https://clementinecttn.github.io/GeoBenelux/SegregationABM_GeoBeNeLux_2026), Benelux Geography conference, session "Beyond static segregation", Leuven (BE).
 
 ## Recent publications
+
+- **May 2026** [@janssen2026residential]: In this article, we address the effects of gentrification on residential mobility, with a particular attention given to the diverse socio-spatial trajectories of individuals moving into or out of gentrifying neighborhoods. We employ a multi-channel sequence analysis to track the movement trajectories of individuals within the Rotterdam region, focusing specifically on those who relocated to or from neighborhoods identified as gentrifying by policymakers, examining how these trajectories intersect with other life-course characteristics of individuals. Our findings showcase that residential mobility in gentrifying neighborhoods does not follow a straightforward vacancy chain of low-income households moving out and gentrifiers moving in. Instead, gentrifiers increasingly move within these neighborhoods, gradually limiting the housing opportunities of low-income individuals.
 
 - **January 2026** [@cottineau2026rethinking]: This is a review of the book "Rethinking Spatial Inequality", by Linda M. Lobao and Gregory Hooks.
 
@@ -33,9 +31,6 @@ link-citations: true
 
 - **November 2025** [@cottineau2025economic]: In this article, I review multilingual and multidisciplinary strands of literature on the causal pathways between economic inequality and economic segregation. I highlight the importance of temporality in the reverse causality between the two concepts. I also advocate for up-to-date comparable indices, new and diverse case studies, especially from unequal and segregated cities from non-dominant countries and a mutual awareness between empirical and theoretical research.
 
-- **October 2025** [@sanmillan2025wealth]: In this article, we explore how the spatiotemporal patterns of affluence and poverty differ when considering wealth versus income. By analyzing geo-coded microdata from the Netherlands, we show that wealth segregation is much higher than income segregation; that financial wealth is more unequally distributed than real estate wealth across society, but is more equally distributed across space; that wealth segregation is more sensitive to the spatial scale of measurement than income segregation; that income segregation is decreasing in most urban areas whereas wealth segregation is rising almost everywhere in the Netherlands.
-
-- **September 2025** [@cottineau2025urban]: In this entry, Denise Pumain and I propose a definition of urban inequality. We also present the history of the concept, its central relevance for geography, regional science and urban policy.
 
 ## References
 
