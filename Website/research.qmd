@@ -55,15 +55,13 @@ The innovative ambition of **SEGUE** is to consider, for the first time, the ana
 
 My ultimate objective is to use this model to assess and compare different policy strategies (typical, past and current) to reduce urban inequality and economic segregation in a cost-effective and time-saving way: within the virtual laboratory of a simulation (in silico). This objective can only be fulfilled if the relevant drivers of urban economic segregation are accounted for jointly.
 
-Initial results of the project were published in [@cottineau2024SLRIneq], [@san_millan_economic_2025], [@sanmillan2025wealth] and [@cottineau2025economic].
-
 ## Current research Topics {#research-interest}
 
 ### Analytical urban models of urban inequality {#research-models}
 
 In my research, I use analytical models to integrate and archive multidisciplinary knowledge on cities and to highlight patterns and stylised facts which are not currently well understood and explained. Following epistemological developments in analytical sociology [@hedstrom2005dissecting], I defend the idea that descriptive models (e.g. statistical regression) and generative models (e.g. agent-based models - ABMs) can be used in combination to produce better and more robust causal explanations of collective urban phenomena such as economic segregation.
 
-To operationalise this idea, I review existing knowledge and relevant models [@cottineau2024unforeseen] [@sarkar2024spatial] [@cottineau2024SLRIneq], combine them into modular infrastructure of agent-based modelling [@cottineau2015modular] [@cottineau2025agent], and use empirical microdata to test hypotheses [@cottineau2020nested] [@askenazy2024geography] [@janssen2024spatial] [@janssen2026residential].
+To operationalise this idea, I review existing knowledge and relevant models [@cottineau2024unforeseen] [@sarkar2024spatial] [@cottineau2024SLRIneq], combine them into modular infrastructure of agent-based modelling [@cottineau2015modular], and use empirical microdata to test hypotheses [@cottineau2020nested] [@askenazy2024geography] [@janssen2024spatial].
 
 ### Systematic literature reviews {#research-review}
 
@@ -71,9 +69,9 @@ Systematic literature reviews have been a method of choice that I have used, dev
 
 ## Previous projects {#research-previous}
 
-- In the past, I have studied urban scaling laws and how the delineation of cities (for instance the choice of density and commuting thresholds) affected their estimation [@cottineau2017diverse] [@finance2019absent] [@cottineau2019mobile].
+-   In the past, I have studied urban scaling laws and how the delineation of cities (for instance the choice of density and commuting thresholds) affected their estimation [@cottineau2017diverse] [@finance2019absent] [@cottineau2019mobile].
 
-- As part of my PhD research, I looked into the specificity of urbanisation in the post-Soviet space, using general models as baseline [@cottineau2011processus] [@cottineau2012intermediate] [@cottineau2015modular] [@cottineau2017peut] and considering urban shrinkage [@cottineau2016multilevel] [@cottineau2018russian].
+-   As part of my PhD research, I looked into the specificity of urbanisation in the post-Soviet space, using general models as baseline [@cottineau2011processus] [@cottineau2012intermediate] [@cottineau2015modular] [@cottineau2017peut] and considering urban shrinkage [@cottineau2016multilevel] [@cottineau2018russian].
 
 ## References
 
