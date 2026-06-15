@@ -12,47 +12,50 @@ theme: minty
 
 ## Most recent {#publi-recent}
 
--   [@cottineau2024SLRIneq]: In this working paper, I examine how economic inequality and economic segregation are connected theoretically and empirically. I do so by systematically analyzing the direction of causality, causal pathways and temporal relationship reflected by a multidisciplinary and multilingual literature. I conclude that variations in economic segregation follow differences in economic inequality in the short term and that reverse causality is more probable in the longer term, that the housing market is the most frequent mediator between economic inequality and economic segregation and that the current scholarship on the topic is far from comparable, although compatible definitions and measurements of inequality and segregation are rising.
--   [@janssen2024spatial]: In this article, we analyse the spillover effects of contemporary state-led gentrification in Rotterdam. More specifically, we analyse the changing socioeconomic characteristics of in-movers and the changing origin locations of residential moves, concluding that Rotterdam increasingly attracts middle- to high-income households from other core cities in the Netherlands while intra-urban moves by economically vulnerable residents are declining, especially toward and within gentrifying neighborhoods. 
--   [@sarkar2024spatial]: In this editorial, we present a brief critical review of the field of urban inequalities and a summary of the special issue. In particular, we propose to organise knowledge on the measurement of spatial and geographic inequalities, by encoding urban geography into three dimensions: inequalities by location (city size, scale, form), inequalities by movement (transport networks, mobility, accessibility) and inequalities by larger infrastructural systems (housing stock, water, Internet) and their dynamics, management and access.
--   [@SLRbanismWorkingPaper]: In this working paper, we propose a set of guidelines and tools to design and automate several steps of systematic literature reviews, so that urbanists with limited experience in SLR can concentrate on the tasks of reading, understanding and synthetizing the knowledge collected. We operationalise our guidelines with recent examples from the field of urbanism and reusable snippets of R code.
--   [@cottineau2024accommodating]: On the occasion of the 50th anniversary of the journal, this commentary looks back at 5 decades of Environment and Planning B and looks forward to where the journal (and the field of urban analytics and city science) might go.
+- [@janssen2026residential]: In this article, we address the effects of gentrification on residential mobility, with a particular attention given to the diverse socio-spatial trajectories of individuals moving into or out of gentrifying neighborhoods. We employ a multi-channel sequence analysis to track the movement trajectories of individuals within the Rotterdam region, focusing specifically on those who relocated to or from neighborhoods identified as gentrifying by policymakers, examining how these trajectories intersect with other life-course characteristics of individuals. Our findings showcase that residential mobility in gentrifying neighborhoods does not follow a straightforward vacancy chain of low-income households moving out and gentrifiers moving in. Instead, gentrifiers increasingly move within these neighborhoods, gradually limiting the housing opportunities of low-income individuals.
+
+- [@cottineau2026rethinking]: This is a review of the book "Rethinking Spatial Inequality", by Linda M. Lobao and Gregory Hooks.
+
+- [@cottineau2025agent]: In this article, we model the social effect of urban segregation ‘around the clock’ on health behaviours (such as the choice of a healthy diet). We do so using an empirical agent-based model initialised on the Paris region with a synthetic population and a combination of scenarios of residential patterns (random allocation vs. census-based allocation reflecting the empirical level of residential segregation) with scenarios of daily mobility (no daily moves, random moves or survey-based daily moves reflecting the empirical level of daytime segregation in Paris). We find an increase in the uptake of healthy behaviours in all scenarios, but contrasted results with respect to social inequalities.
+
+- [@cottineau2025economic]: In this article, I review multilingual and multidisciplinary strands of literature on the causal pathways between economic inequality and economic segregation. I highlight the importance of temporality in the reverse causality between the two concepts. I also advocate for up-to-date comparable indices, new and diverse case studies, especially from unequal and segregated cities from non-dominant countries and a mutual awareness between empirical and theoretical research.
 
 ## Peer reviewed articles {#publi-articles}
 
--   on Economic Inequality, residential segregation and urban inequality: [@cottineau2019defining] [@cottineau2019mobile] [@schneider2019decentralisation] [@janssen2023gentrification] [@janssen2024spatial] 
--   on Literature reviews and the history of urban studies: [@cottineau2017metazipf] [@raimbault2021empowering] [@cottineau2022analyses] [@janssen2023gentrification] [@achter2024conduct] [@cottineau2024unforeseen] 
--   on Urban scaling laws and systems of cities: [@pumain2015multilevel] [@cottineau2017diverse] [@cura2017old] [@cottineau2017metazipf] [@finance2019absent] [@cottineau2019defining]
--   on Agent-based modelling: [@cottineau2015modular] [@cottineau2015growing] [@cherel2015beyond] [@raimbault2019space] [@achter2024conduct]
--   on Urbanisation in the post-Soviet Space: [@cottineau2011processus] [@cottineau2012intermediate] [@cottineau2015modular] [@cottineau2015growing] [@cottineau2016multilevel] [@cottineau2017peut]
--   on the Geography of production: [@cottineau2019defining] [@cottineau2020nested] [@brochard2022negociation] [@askenazy2024geography]
--   on Urban policy: [@schneider2019decentralisation] [@cottineau2024unforeseen]
+- on Economic Inequality, residential segregation and urban inequality: [@cottineau2019defining] [@cottineau2019mobile] [@schneider2019decentralisation]  [@janssen2023gentrification] [@janssen2024spatial] [@janssen2024spatial] [@cottineau2025economic] [@san2025economic] [@san2025flux] [@janssen2026residential]
+- on Literature reviews and the history of urban studies: [@cottineau2017metazipf] [@raimbault2021empowering] [@cottineau2022analyses] [@janssen2023gentrification] [@achter2024conduct] [@cottineau2024unforeseen] [@cottineau2025economic]
+- on Urban scaling laws and systems of cities: [@pumain2015multilevel] [@cottineau2017diverse] [@cura2017old] [@cottineau2017metazipf] [@finance2019absent] [@cottineau2019defining]
+- on Agent-based modelling: [@cottineau2015modular] [@cottineau2015growing] [@cherel2015beyond] [@raimbault2019space] [@achter2024conduct] [@cottineau2025agent]
+- on Urbanisation in the post-Soviet Space: [@cottineau2011processus] [@cottineau2012intermediate] [@cottineau2015modular] [@cottineau2015growing] [@cottineau2016multilevel] [@cottineau2017peut]
+- on the Geography of production: [@cottineau2019defining] [@cottineau2020nested] [@brochard2022negociation] [@askenazy2024geography]
+- on Urban policy: [@schneider2019decentralisation] [@cottineau2024unforeseen]
 
 ## Books {#publi-books}
 
--   Edited book on inequalities in geographical space: [@cottineau2022inequalities]
+- Edited book on inequalities in geographical space: [@cottineau2022inequalities]
 
--   Edited book on cities and inequalities: [@cottineau2022cities]
+- Edited book on cities and inequalities: [@cottineau2022cities]
 
 ## Book chapters {#publi-book-chapters}
-
--   In R. Harris, A. Heppenstall, & L. J. Wolf (Eds.), 2024, *A research agenda for spatial analysis*: [@cottineau2024generative]
--   In C. Cottineau & J. Vallée (Eds.), 2022, *Inequalities in geographical space*: [@cottineau2022introduction] [@cottineau2022modeling]
--   In C. Cottineau & D. Pumain (Eds.), 2022, *Cities at the heart of inequalities*: [@cottineau2022major] [@cottineau2022inequalitiesbetweencities]
--   In D. Pumain (Ed.), 2020, *Theories and models of urbanization: Geography, economics and computing sciences*: [@baffi2020emerging]
--   In D. Pumain (Ed.), 2019, *Geographical modeling: Cities and territories*: [@cottineau2019incremental]
--   In D. Pumain, C. Rozenblat, & E. Velasquez (Eds.), 2018, *International and transnational perspectives on urban systems*: [@cottineau2018russian]
+- In D. Rybski, 2025, Compendium of Urban Complexity: [@cottineau2025city]
+- In R. Harris, A. Heppenstall, & L. J. Wolf (Eds.), 2024, *A research agenda for spatial analysis*: [@cottineau2024generative]
+- In R. Harris, A. Heppenstall, & L. J. Wolf (Eds.), 2024, *A research agenda for spatial analysis*: [@cottineau2024generative]
+- In C. Cottineau & J. Vallée (Eds.), 2022, *Inequalities in geographical space*: [@cottineau2022introduction] [@cottineau2022modeling]
+- In C. Cottineau & D. Pumain (Eds.), 2022, *Cities at the heart of inequalities*: [@cottineau2022major] [@cottineau2022inequalitiesbetweencities]
+- In D. Pumain (Ed.), 2020, *Theories and models of urbanization: Geography, economics and computing sciences*: [@baffi2020emerging]
+- In D. Pumain (Ed.), 2019, *Geographical modeling: Cities and territories*: [@cottineau2019incremental]
+- In D. Pumain, C. Rozenblat, & E. Velasquez (Eds.), 2018, *International and transnational perspectives on urban systems*: [@cottineau2018russian]
 
 ## Other {#publi-other}
 
--   My PhD Dissertation: [@cottineau2014evolution]
--   Non-peer-reviewed article: [@drouzhinin2010identifikatsia]
--   Working Papers: [@cottineau2016jean] [@barner2017multiscale] [@cottineau2018agent] [@SLRbanismWorkingPaper] [@cottineau2024SLRIneq]
--   Editorial: [@sarkar2024spatial]
--   Workshop repository: [@Forgaci_Geospatial_Data_Carpentry]
--   Book reviews: [@cottineau2011baron] [@cottineau2014piketty] [@cottineau2017west] [@cottineau2020lahire]
--   Report: [@avila2011mapping]
--   Commentaries: [@cottineau2024accommodating]
+- My PhD Dissertation: [@cottineau2014evolution]
+- Non-peer-reviewed article: [@drouzhinin2010identifikatsia] [@roxburgh2025outlining]
+- Working Papers: [@cottineau2016jean] [@barner2017multiscale] [@cottineau2018agent] [@SLRbanismWorkingPaper] [@cottineau2024SLRIneq]
+- Editorial: [@sarkar2024spatial]
+- Workshop repository: [@Forgaci_Geospatial_Data_Carpentry]
+- Book reviews: [@cottineau2011baron] [@cottineau2014piketty] [@cottineau2017west] [@cottineau2020lahire] [@cottineau2026rethinking]
+- Report: [@avila2011mapping]
+- Commentaries: [@cottineau2024accommodating]
 
 ## Full list {#publi-list}
 
