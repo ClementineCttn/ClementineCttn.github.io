@@ -1,0 +1,121 @@
+---
+title: "AI & Urban Studies"
+format: revealjs
+editor: visual
+author: "A biased assessment, by Clémentine Cottineau-Mugadza"
+date: 06/29/26
+---
+
+## What is AI? {.scrollable}
+
+
+:::::: {layout-ncol="2"}
+::: {}
+
+- A collection of **technologies** that puts the emphasis on prediction, using intensive data learning. 
+- Common laguage = LLM (Claude, ChatGPT, Gemini, etc.)
+- A sequence of HTTP requests and HTTP responses in JSON
+
+
+:::
+
+::: {}
+
+
+<div class="substack-post-embed"><p lang="en">What is an agent? by Hadley Wickham</p><p>Conversations, turns, rounds, tools, agents and more!</p><a data-post-link href="https://tidydesign.substack.com/p/what-is-an-agent">Read on Substack</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
+
+
+:::
+::::::
+
+
+## How does AI Change Cities?  {.scrollable}
+
+:::::: {layout-ncol="2"}
+::: {}
+
+- it's affecting **social interactions** (at work, at school, in creative spaces), which are cities' core business!
+- it's affecting **urban landcapes & resources**
+
+
+:::
+
+::: {}
+
+<iframe allow="autoplay" width="100%" height="300" src="https://www.iheart.com/podcast/256-city-road-podcast-30961076/episode/data-centres-planning-for-growth-amidst-315582355/?embed=true" frameborder="0"></iframe>
+
+
+:::
+::::::
+
+
+
+
+## How does AI Urban Studies?  {.scrollable}
+
+
+:::::: {layout-ncol="2"}
+::: {}
+
+- Opportunities to consider **geospatial context** through spatial embeddings with GeoAI 
+- **Supports** learners in programming tasks, literature review, etc.
+
+
+:::
+
+::: {}
+<iframe title="Episode 27: Are you GLaD about GeoAI? A conversation with Krzysztof Janowicz" allowtransparency="true" height="300" width="100%" style="border: none; min-width: min(100%, 430px);height:300px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&i=gxvrf-19bd2cb-pb&square=1&share=1&download=1&fonts=Arial&skin=f6f6f6&font-color=auto&rtl=0&logo_link=episode_page&btn-skin=7&size=300" loading="lazy" allowfullscreen=""></iframe>
+
+:::
+::::::
+
+## How does AI Urban Studies?  {.scrollable}
+
+:::::: {layout-ncol="2"}
+::: {}
+
+- Creates **distrust** and suspicion (students essay, peer review articles, data, emails)
+- Increases **wealth concentration and inequality** (access, gender and geographical representation in references, hallucinated or not)
+- Wastes considerable **time and energy** 
+- Gives computer scientists **disproportionate power** over scientific tools and means of research
+- Creates **vulnerability**  (to draughts, to climate change, to proprietary workflows) and **intellectual laziness** which impairs learning and facilitates political manipulation
+
+:::
+
+::: {}
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:ndl27s4qmmo3fbc76jjwaxvu/app.bsky.feed.post/3mnxkxte55s25" data-bluesky-cid="bafyreierj2ettcsuxms7guh6wlv35vw4lvs4w5k7sun7tfi4idqrqyx7dm" data-bluesky-embed-color-mode="system"><p lang="en">I’ve officially resigned as Associate Editor for Frontiers in Systems Neuroscience. It used to be a reputable journal, but became a case study in how forced automation destroys academic integrity. 👇</p>&mdash; Michael Okun (<a href="https://bsky.app/profile/did:plc:ndl27s4qmmo3fbc76jjwaxvu?ref_src=embed">@michael-okun.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:ndl27s4qmmo3fbc76jjwaxvu/post/3mnxkxte55s25?ref_src=embed">June 10, 2026 at 10:38 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:ndl27s4qmmo3fbc76jjwaxvu/app.bsky.feed.post/3mnxkxtec2225" data-bluesky-cid="bafyreicns6guhuuwdwjendvjrrtyp4pdb5x5ot6yqfxjlo46ydicldn7he" data-bluesky-embed-color-mode="system"><p lang="en">When Frontiers started automating the editorial process, I stayed. I reasoned that as long as the automation could be turned off, human editors can still ensure rigorous, high-quality peer review. This now became impossible - the system has been entirely hijacked by algorithms.</p>&mdash; Michael Okun (<a href="https://bsky.app/profile/did:plc:ndl27s4qmmo3fbc76jjwaxvu?ref_src=embed">@michael-okun.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:ndl27s4qmmo3fbc76jjwaxvu/post/3mnxkxtec2225?ref_src=embed">June 10, 2026 at 10:38 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:ndl27s4qmmo3fbc76jjwaxvu/app.bsky.feed.post/3mnxkxtec2325" data-bluesky-cid="bafyreiaqqb3peeoj5lchtfliaqhpydv2ng4kjuah5kkuowhu35qomjfmae" data-bluesky-embed-color-mode="system"><p lang="en">Over the last month I saw that human editors are now stripped of control. I could no longer stop the system from auto-inviting &quot;reviewers&quot; with zero relevant expertise. Even worse - the AI began actively revoking the invitations I manually sent out to actual, qualified experts.</p>&mdash; Michael Okun (<a href="https://bsky.app/profile/did:plc:ndl27s4qmmo3fbc76jjwaxvu?ref_src=embed">@michael-okun.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:ndl27s4qmmo3fbc76jjwaxvu/post/3mnxkxtec2325?ref_src=embed">June 10, 2026 at 10:38 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:ndl27s4qmmo3fbc76jjwaxvu/app.bsky.feed.post/3mnxkxtecze25" data-bluesky-cid="bafyreifdb4hh4ns7e2sueqbwbhdlj2kxmrzawpwaokcnsbua7u3ihuvjki" data-bluesky-embed-color-mode="system"><p lang="en">If human editors can’t control who reviews science, it’s no longer peer review — it’s a rubber-stamp machine designed for volume and profit, not quality. I have no intention of attaching my name to it. So I’m out.</p>&mdash; Michael Okun (<a href="https://bsky.app/profile/did:plc:ndl27s4qmmo3fbc76jjwaxvu?ref_src=embed">@michael-okun.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:ndl27s4qmmo3fbc76jjwaxvu/post/3mnxkxtecze25?ref_src=embed">June 10, 2026 at 10:38 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+:::
+::::::
+
+
+
+
+## What can be done?  {.scrollable}
+
+:::::: {layout-ncol="2"}
+::: {}
+
+- Be **aware**: learn how it works, who produces it, why, how much it costs to produce and why it's free to use
+- Be **careful**: what are you giving away (real world actions), what do you claim as yours
+- **Resist!**
+
+:::
+
+::: {}
+
+```{=html}
+<iframe width="900" height="500" src="https://airesistlist.org/" title="The AI Resist List"></iframe>
+```
+:::
+::::::
+
+
+## This presentation 
+
+
