@@ -11,6 +11,44 @@ author: "A biased assessment, by Clémentine Cottineau-Mugadza"
 date: 06/29/26
 ---
 
+## Program 2026-2027 {.scrollable}
+
+::::: {layout-ncol="2"}
+::: {}
+**Survey results**
+
+- Need for more information exchange (AI, news, reading, events, etc.)
+- Need for better time management
+- Wish for more senior staff presenting research
+- Wish for workshop-style sessions
+:::
+
+::: {}
+**Proposal**
+
+- Running/open document for announcements
+- 5-10min opening slot for "AI ambassadors", internal updates, "book club"
+:::
+:::::
+
+## Program 2026-2027 {.scrollable}
+
+- 31/08. Spotlight on… ??? + social event
+- 15/09. Research - **SARI on new postdoc**
+- 08/10. Research - **REINOUT on Impact**
+- [17/10. Free format: workshop on research ethics?]{.underline}
+- [19/11. Discussion Urban Topic - **Politics**]{.underline}
+- 07/12. Spotlight on… **MAARTEN** + lunch
+- 14/01. Research - *new PhD member*
+- 08/02. Free format
+- [02/03. Discussion Urban Topic - **AI & Education**]{.underline}
+- 22/03. Research - **CLEMENTINE** + social event
+- 20/04. Spotlight on…
+- 13/05. Research
+- 01/06. Free format
+- [24/06. Discussion Urban Topic]{.underline}
+- 12/07. Research + reflection + picnic
+
 ## What is AI? {.scrollable}
 
 :::::: {layout-ncol="2"}
