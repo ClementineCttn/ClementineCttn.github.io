@@ -12,7 +12,7 @@ link-citations: true
 
 ## Future presentations
 
-- **2 September 2026**: From here to there: investigating the effects of residential relocation trade-offs on urban economic segregation, Royal Geographical Society Annual Meeting, London, UK.
+- **2 September 2026**: [From here to there: investigating the effects of residential relocation trade-offs on urban economic segregation](https://clementinecttn.github.io/RGS2026/RGS_equivalence.html), Royal Geographical Society Annual Meeting, London, UK
 
 - **11 September 2026**: Synthetic populations, synthetic cities and the spatio-temporal effects of urban inequality and segregation, Behave summer school on agend-based modelling, Brescia, Italy.
 
